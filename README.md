@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, CS50, & Full Stack Development
 - 💞️ I’m looking to collaborate on anything to help me learn and improve
 - 📫 How to reach me on Git-hub
-- 😄 Pronouns: anything
+- 😄 Pronouns: you can call me whatever you want as long as you don't hit me :P
 - ⚡ Fun fact: I'm usually moonlighting as a Padi Open Water Scuba Instructor 
 
 <!---
